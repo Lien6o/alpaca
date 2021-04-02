@@ -1,5 +1,7 @@
 # Alpaca
 
+![Alpaca](https://i.ytimg.com/vi/r4EzGQ8MzIA/hqdefault.jpg)
+
 Alpaca 项目实现了代理注入Spring的工作。在使用时像mybatis-spring一样注入mapper接口即可完成。
 
 具体代理增强可由使用方自由扩展实现，比如完成类似HTTP,SQL等操作。
