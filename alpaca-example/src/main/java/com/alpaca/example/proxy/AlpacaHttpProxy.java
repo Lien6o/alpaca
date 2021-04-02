@@ -9,7 +9,7 @@ import java.lang.reflect.Method;
 /**
  * @author Lien6o
  */
-public class AlpacaProxy implements InvocationHandler {
+public class AlpacaHttpProxy implements InvocationHandler {
 
     @Override
     public Object invoke(Object target, Method method, Object[] args) throws Throwable {
