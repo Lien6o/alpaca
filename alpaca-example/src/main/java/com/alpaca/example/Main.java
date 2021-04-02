@@ -1,7 +1,6 @@
 package com.alpaca.example;
 
 import com.alpaca.example.service.HttpExampleService;
-import com.alpaca.example.service.HttpInvokeAlpaca;
 import com.alpaca.example.service.SqlExampleService;
 import org.springframework.context.annotation.AnnotationConfigApplicationContext;
 
